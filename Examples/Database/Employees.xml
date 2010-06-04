@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2007-10-24T13:59:18">
+<Employees>
+<ID>1</ID>
+<EmployeeID>1</EmployeeID>
+<Extension>501</Extension>
+<EmployeeName>Rock Roll</EmployeeName>
+<Hire_x0020_Date>1994-10-01T00:00:00</Hire_x0020_Date>
+<Office>5</Office>
+<Reports_x0020_To>4</Reports_x0020_To>
+<Title>Sales Representative</Title>
+<Year_x0020_Salary>61000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>2</ID>
+<EmployeeID>2</EmployeeID>
+<Extension>101</Extension>
+<EmployeeName>Elvis Presley</EmployeeName>
+<Hire_x0020_Date>1993-09-14T00:00:00</Hire_x0020_Date>
+<Office>1</Office>
+<Reports_x0020_To></Reports_x0020_To>
+<Title>President</Title>
+<Year_x0020_Salary>80000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>3</ID>
+<EmployeeID>3</EmployeeID>
+<Extension>102</Extension>
+<EmployeeName>Rob Carsson</EmployeeName>
+<Hire_x0020_Date>1994-10-01T00:00:00</Hire_x0020_Date>
+<Office>1</Office>
+<Reports_x0020_To>4</Reports_x0020_To>
+<Title>Sales Representative</Title>
+<Year_x0020_Salary>63000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>4</ID>
+<EmployeeID>4</EmployeeID>
+<Extension>301</Extension>
+<EmployeeName>Joan Callins</EmployeeName>
+<Hire_x0020_Date>1994-09-03T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>2</Reports_x0020_To>
+<Title>Sales Manager</Title>
+<Year_x0020_Salary>70000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>5</ID>
+<EmployeeID>5</EmployeeID>
+<Extension>302</Extension>
+<EmployeeName>Ingrid Hendrix</EmployeeName>
+<Hire_x0020_Date>1995-10-17T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>4</Reports_x0020_To>
+<Title>Sales Representative</Title>
+<Year_x0020_Salary>61300</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>6</ID>
+<EmployeeID>6</EmployeeID>
+<Extension>401</Extension>
+<EmployeeName>Lennart Skoglund</EmployeeName>
+<Hire_x0020_Date>1994-01-17T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>4</Reports_x0020_To>
+<Title>Sales Representative</Title>
+<Year_x0020_Salary>61200</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>7</ID>
+<EmployeeID>7</EmployeeID>
+<Extension>201</Extension>
+<EmployeeName>Tom Lindwall</EmployeeName>
+<Hire_x0020_Date>1995-11-22T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>4</Reports_x0020_To>
+<Title>Sales Representative</Title>
+<Year_x0020_Salary>61000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>8</ID>
+<EmployeeID>8</EmployeeID>
+<Extension>202</Extension>
+<EmployeeName>Leif Shine</EmployeeName>
+<Hire_x0020_Date>1994-03-05T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>2</Reports_x0020_To>
+<Title>Sales Coordinator</Title>
+<Year_x0020_Salary>65000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>9</ID>
+<EmployeeID>9</EmployeeID>
+<Extension>103</Extension>
+<EmployeeName>Helen Brolin</EmployeeName>
+<Hire_x0020_Date>1995-02-15T00:00:00</Hire_x0020_Date>
+<Office>1</Office>
+<Reports_x0020_To>4</Reports_x0020_To>
+<Title>Sales Representative</Title>
+<Year_x0020_Salary>60000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>10</ID>
+<EmployeeID>19</EmployeeID>
+<Extension>222</Extension>
+<EmployeeName>David Letterman</EmployeeName>
+<Hire_x0020_Date>1993-10-10T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>8</Reports_x0020_To>
+<Title>Product Manager</Title>
+<Year_x0020_Salary>55500</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>11</ID>
+<EmployeeID>20</EmployeeID>
+<Extension>333</Extension>
+<EmployeeName>John Cleaves</EmployeeName>
+<Hire_x0020_Date>1994-10-03T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>8</Reports_x0020_To>
+<Title>Product Manager</Title>
+<Year_x0020_Salary>55000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>12</ID>
+<EmployeeID>21</EmployeeID>
+<Extension>444</Extension>
+<EmployeeName>Miro Takako</EmployeeName>
+<Hire_x0020_Date>1995-02-22T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>8</Reports_x0020_To>
+<Title>Product Manager</Title>
+<Year_x0020_Salary>55000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>13</ID>
+<EmployeeID>22</EmployeeID>
+<Extension>555</Extension>
+<EmployeeName>Binh Protzmann</EmployeeName>
+<Hire_x0020_Date>1994-03-06T00:00:00</Hire_x0020_Date>
+<Office>5</Office>
+<Reports_x0020_To>8</Reports_x0020_To>
+<Title>Product Manager</Title>
+<Year_x0020_Salary>56000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>14</ID>
+<EmployeeID>23</EmployeeID>
+<Extension>200</Extension>
+<EmployeeName>Cezar Sandu</EmployeeName>
+<Hire_x0020_Date>1994-02-22T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>19</Reports_x0020_To>
+<Title>Systems Manager</Title>
+<Year_x0020_Salary>51000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>15</ID>
+<EmployeeID>24</EmployeeID>
+<Extension>200</Extension>
+<EmployeeName>Cindy Crawford</EmployeeName>
+<Hire_x0020_Date>1995-06-08T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>19</Reports_x0020_To>
+<Title>Systems Manager</Title>
+<Year_x0020_Salary>50400</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>16</ID>
+<EmployeeID>25</EmployeeID>
+<Extension>200</Extension>
+<EmployeeName>James Bond</EmployeeName>
+<Hire_x0020_Date>1995-07-06T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>19</Reports_x0020_To>
+<Title>Systems Manager</Title>
+<Year_x0020_Salary>50000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>17</ID>
+<EmployeeID>26</EmployeeID>
+<Extension>200</Extension>
+<EmployeeName>John Doe</EmployeeName>
+<Hire_x0020_Date>1996-08-01T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>19</Reports_x0020_To>
+<Title>Systems Manager</Title>
+<Year_x0020_Salary>51600</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>18</ID>
+<EmployeeID>27</EmployeeID>
+<Extension>500</Extension>
+<EmployeeName>Mario Kaddafi</EmployeeName>
+<Hire_x0020_Date>1994-06-05T00:00:00</Hire_x0020_Date>
+<Office>5</Office>
+<Reports_x0020_To>22</Reports_x0020_To>
+<Title>Systems Manager</Title>
+<Year_x0020_Salary>51300</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>19</ID>
+<EmployeeID>28</EmployeeID>
+<Extension>500</Extension>
+<EmployeeName>Paul Dupont</EmployeeName>
+<Hire_x0020_Date>1995-02-06T00:00:00</Hire_x0020_Date>
+<Office>5</Office>
+<Reports_x0020_To>22</Reports_x0020_To>
+<Title>Systems Manager</Title>
+<Year_x0020_Salary>51200</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>20</ID>
+<EmployeeID>29</EmployeeID>
+<Extension>500</Extension>
+<EmployeeName>Sven Svensson</EmployeeName>
+<Hire_x0020_Date>1996-01-29T00:00:00</Hire_x0020_Date>
+<Office>5</Office>
+<Reports_x0020_To>22</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>51000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>21</ID>
+<EmployeeID>30</EmployeeID>
+<Extension>500</Extension>
+<EmployeeName>Ira Baumel</EmployeeName>
+<Hire_x0020_Date>1996-12-31T00:00:00</Hire_x0020_Date>
+<Office>5</Office>
+<Reports_x0020_To>22</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>50200</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>22</ID>
+<EmployeeID>31</EmployeeID>
+<Extension>500</Extension>
+<EmployeeName>Keith Helmkey</EmployeeName>
+<Hire_x0020_Date>1997-03-31T00:00:00</Hire_x0020_Date>
+<Office>5</Office>
+<Reports_x0020_To>22</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>50200</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>23</ID>
+<EmployeeID>32</EmployeeID>
+<Extension>300</Extension>
+<EmployeeName>Rolf Wesenlund</EmployeeName>
+<Hire_x0020_Date>1996-07-29T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>20</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>50300</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>24</ID>
+<EmployeeID>33</EmployeeID>
+<Extension>300</Extension>
+<EmployeeName>Ann Lindquist</EmployeeName>
+<Hire_x0020_Date>1996-01-11T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>20</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>50100</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>25</ID>
+<EmployeeID>34</EmployeeID>
+<Extension>300</Extension>
+<EmployeeName>Bill Yang</EmployeeName>
+<Hire_x0020_Date>1997-01-11T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>20</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>50500</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>26</ID>
+<EmployeeID>35</EmployeeID>
+<Extension>300</Extension>
+<EmployeeName>Charles Ingvar Jönsson</EmployeeName>
+<Hire_x0020_Date>1996-12-31T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>20</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>50000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>27</ID>
+<EmployeeID>36</EmployeeID>
+<Extension>300</Extension>
+<EmployeeName>Jacques Clouseau</EmployeeName>
+<Hire_x0020_Date>1997-08-02T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>20</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>51000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>28</ID>
+<EmployeeID>37</EmployeeID>
+<Extension>400</Extension>
+<EmployeeName>Jerry Tessel</EmployeeName>
+<Hire_x0020_Date>1995-08-02T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>21</Reports_x0020_To>
+<Title>Network Manager</Title>
+<Year_x0020_Salary>52000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>29</ID>
+<EmployeeID>38</EmployeeID>
+<Extension>400</Extension>
+<EmployeeName>John Lemon</EmployeeName>
+<Hire_x0020_Date>1995-09-02T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>21</Reports_x0020_To>
+<Title>Network Manager</Title>
+<Year_x0020_Salary>50000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>30</ID>
+<EmployeeID>39</EmployeeID>
+<Extension>400</Extension>
+<EmployeeName>Marcus Salvatori</EmployeeName>
+<Hire_x0020_Date>1996-01-07T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>21</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>51000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>31</ID>
+<EmployeeID>40</EmployeeID>
+<Extension>400</Extension>
+<EmployeeName>Olivier Simenon</EmployeeName>
+<Hire_x0020_Date>1996-12-31T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>21</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>55000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>32</ID>
+<EmployeeID>41</EmployeeID>
+<Extension>400</Extension>
+<EmployeeName>Sunil Gupta</EmployeeName>
+<Hire_x0020_Date>1997-01-04T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>21</Reports_x0020_To>
+<Title>Storeman</Title>
+<Year_x0020_Salary>50000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>33</ID>
+<EmployeeID>42</EmployeeID>
+<Extension>104</Extension>
+<EmployeeName>Östen Ärlig</EmployeeName>
+<Hire_x0020_Date>1994-12-24T00:00:00</Hire_x0020_Date>
+<Office>1</Office>
+<Reports_x0020_To>3</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>51000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>34</ID>
+<EmployeeID>43</EmployeeID>
+<Extension>203</Extension>
+<EmployeeName>Bob Park</EmployeeName>
+<Hire_x0020_Date>1994-10-09T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>7</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>50000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>35</ID>
+<EmployeeID>44</EmployeeID>
+<Extension>204</Extension>
+<EmployeeName>Clark Kent</EmployeeName>
+<Hire_x0020_Date>1994-01-31T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>7</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>55000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>36</ID>
+<EmployeeID>45</EmployeeID>
+<Extension>303</Extension>
+<EmployeeName>Joe Cheng</EmployeeName>
+<Hire_x0020_Date>1995-08-02T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>5</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>52000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>37</ID>
+<EmployeeID>46</EmployeeID>
+<Extension>304</Extension>
+<EmployeeName>Kaya Alpan</EmployeeName>
+<Hire_x0020_Date>1996-01-21T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>5</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>51000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>38</ID>
+<EmployeeID>47</EmployeeID>
+<Extension>402</Extension>
+<EmployeeName>Michelle Tyson</EmployeeName>
+<Hire_x0020_Date>1995-02-01T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>6</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>50000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>39</ID>
+<EmployeeID>48</EmployeeID>
+<Extension>403</Extension>
+<EmployeeName>Ricardo Gucci</EmployeeName>
+<Hire_x0020_Date>1996-01-01T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>6</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>47600</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>40</ID>
+<EmployeeID>49</EmployeeID>
+<EmployeeName>Steve Cioazzi</EmployeeName>
+<Hire_x0020_Date>1995-01-01T00:00:00</Hire_x0020_Date>
+<Office>1</Office>
+<Reports_x0020_To>2</Reports_x0020_To>
+<Title>Operator/Clerk</Title>
+<Year_x0020_Salary>47500</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>41</ID>
+<EmployeeID>50</EmployeeID>
+<EmployeeName>Kenneth Finley</EmployeeName>
+<Hire_x0020_Date>1995-01-01T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>8</Reports_x0020_To>
+<Title>Operator/Clerk</Title>
+<Year_x0020_Salary>45600</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>42</ID>
+<EmployeeID>51</EmployeeID>
+<EmployeeName>Lucky Luke</EmployeeName>
+<Hire_x0020_Date>1997-01-03T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>4</Reports_x0020_To>
+<Title>Operator/Clerk</Title>
+<Year_x0020_Salary>45000</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>43</ID>
+<EmployeeID>52</EmployeeID>
+<EmployeeName>Mike Ashkenaz</EmployeeName>
+<Hire_x0020_Date>1996-11-30T00:00:00</Hire_x0020_Date>
+<Office>1</Office>
+<Reports_x0020_To>42</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>49500</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>44</ID>
+<EmployeeID>53</EmployeeID>
+<EmployeeName>Richard Ranieri</EmployeeName>
+<Hire_x0020_Date>1997-01-07T00:00:00</Hire_x0020_Date>
+<Office>2</Office>
+<Reports_x0020_To>23</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>49500</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>45</ID>
+<EmployeeID>54</EmployeeID>
+<EmployeeName>Sabrina Richards</EmployeeName>
+<Hire_x0020_Date>1996-04-03T00:00:00</Hire_x0020_Date>
+<Office>3</Office>
+<Reports_x0020_To>32</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>49500</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>46</ID>
+<EmployeeID>55</EmployeeID>
+<EmployeeName>Sehoon Daw</EmployeeName>
+<Hire_x0020_Date>1996-11-30T00:00:00</Hire_x0020_Date>
+<Office>4</Office>
+<Reports_x0020_To>37</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>49500</Year_x0020_Salary>
+</Employees>
+<Employees>
+<ID>47</ID>
+<EmployeeID>161</EmployeeID>
+<EmployeeName>Stefan Lind</EmployeeName>
+<Hire_x0020_Date>1995-12-28T00:00:00</Hire_x0020_Date>
+<Office>5</Office>
+<Reports_x0020_To>27</Reports_x0020_To>
+<Title>Account Manager</Title>
+<Year_x0020_Salary>49500</Year_x0020_Salary>
+</Employees>
+</dataroot>
