@@ -1,0 +1,11 @@
+Id	Name	FName	Country	Position	FeeLY	FeeCY	SalaryLY	SalaryCY
+1	Andersson, Anders	Anders	Sweden	CEO	300	290	100000	110000
+2	Johansson, Lena	Lena	Sweden	Application Consultant	150	160	65000	65500
+3	Richter, Karl	Karl	Germany	Application Consultant	150	170	63000	64000
+4	Köhler, Jürgen	Jürgen	Germany	Project Manager	180	180	71000	78000
+5	Girard, Claude	Claude	France	Management Consultant	200	225	85000	90000
+6	Lemieux, Francois	Francois	France	Application Consultant	150	150	49000	53000
+7	Wainright, James	James	UK	Web Designer	140	145	55000	57000
+8	Frost, Helen	Helen	UK	Application Consultant	150	150	61000	65000
+9	Jensen, Rune	Rune	Denmark	Database Designer	180	200	77000	78000
+10	Nord, Martin	Martin	Denmark	Management Consultant	200	225	91000	95000

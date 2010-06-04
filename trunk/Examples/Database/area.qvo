@@ -1,0 +1,412 @@
+Postcode district	Local authority	Area
+E1	Hackney	Mile End
+E1	Hackney	Stepney
+E1	Hackney	Whitechapel
+E1	Tower Hamlets	Mile End
+E1	Tower Hamlets	Stepney
+E1	Tower Hamlets	Whitechapel
+E1W	Tower Hamlets	Wapping
+E2	Hackney	Bethnal Green
+E2	Hackney	Shoreditch
+E2	Tower Hamlets	Bethnal Green
+E2	Tower Hamlets	Shoreditch
+E3	Newham	Bow
+E3	Newham	Bromley-by-Bow
+E3	Tower Hamlets	Bow
+E3	Tower Hamlets	Bromley-by-Bow
+E4	Epping Forest	Chingford
+E4	Epping Forest	Highams Park
+E4	Waltham Forest	Chingford
+E4	Waltham Forest	Highams Park
+E5	Hackney	Clapton
+E5	Waltham Forest	Clapton
+E6	Barking and Dagenham	East Ham
+E6	Newham	East Ham
+E7	Newham	Forest Gate
+E7	Newham	Upton Park
+E7	Waltham Forest	Forest Gate
+E7	Waltham Forest	Upton Park
+E8	Hackney	Dalston
+E8	Hackney	Hackney
+E9	Hackney	Hackney
+E9	Hackney	Homerton
+E9	Tower Hamlets	Hackney
+E9	Tower Hamlets	Homerton
+E10	Hackney	Leyton
+E10	Waltham Forest	Leyton
+E11	Redbridge	Leytonstone
+E11	Waltham Forest	Leytonstone
+E12	Newham	Manor Park
+E12	Redbridge	Manor Park
+E13	Newham	Plaistow
+E14	Tower Hamlets	Docklands
+E14	Tower Hamlets	Isle of Dogs
+E14	Tower Hamlets	Millwall
+E14	Tower Hamlets	Poplar
+E15	Hackney	Stratford
+E15	Hackney	West Ham
+E15	Newham	Stratford
+E15	Newham	West Ham
+E15	Tower Hamlets	Stratford
+E15	Tower Hamlets	West Ham
+E15	Waltham Forest	Stratford
+E15	Waltham Forest	West Ham
+E16	Newham	Canning Town
+E16	Newham	Docklands
+E16	Newham	North Woolwich
+E17	Waltham Forest	Walthamstow
+E18	Redbridge	South Woodford
+EC1A	City of London	"St Bartholomew's Hospital"
+EC1M	Islington	Clerkenwell
+EC1M	Islington	Farringdon
+EC1N	Camden	Hatton Garden
+EC1R	Islington	Finsbury
+EC1R	Islington	Finsbury Estate
+EC1V	Islington	Finsbury
+EC1Y	Islington	Bunhill Fields
+EC1Y	Islington	"St Luke's"
+EC2A	Hackney	Shoreditch
+EC2M	City of London	Broadgate
+EC2M	City of London	Liverpool Street
+EC2N	City of London	Old Broad Street
+EC2R	City of London	Bank of England
+EC3A	City of London	Aldgate
+EC3A	City of London	St Mary Axe
+EC3N	City of London	Tower Hill
+EC3N	City of London	Tower of London
+EC3N	Tower Hamlets	Tower Hill
+EC3N	Tower Hamlets	Tower of London
+EC3R	City of London	Billingsgate
+EC3R	City of London	Monument
+EC4A	City of London	Fetter Lane
+EC4M	City of London	"St Paul's"
+EC4V	City of London	Blackfriars
+N1	Camden	Barnsbury
+N1	Camden	Canonbury
+N1	Camden	Islington
+N1	Hackney	Barnsbury
+N1	Hackney	Canonbury
+N1	Hackney	Islington
+N1	Islington	Barnsbury
+N1	Islington	Canonbury
+N1	Islington	Islington
+N2	Barnet	East Finchley
+N2	Haringey	East Finchley
+N3	Barnet	Finchley Central
+N4	Hackney	Finsbury Park
+N4	Hackney	Manor House
+N4	Haringey	Finsbury Park
+N4	Haringey	Manor House
+N4	Islington	Finsbury Park
+N4	Islington	Manor House
+N5	Islington	Highbury
+N6	Camden	Highgate
+N6	Haringey	Highgate
+N6	Islington	Highgate
+N7	Islington	Holloway
+N8	Haringey	Crouch End
+N8	Haringey	Hornsey
+N8	Islington	Crouch End
+N8	Islington	Hornsey
+N9	Enfield	Lower Edmonton
+N10	Barnet	Muswell Hill
+N10	Haringey	Muswell Hill
+N11	Barnet	Friern Barnet
+N11	Barnet	New Southgate
+N11	Enfield	Friern Barnet
+N11	Enfield	New Southgate
+N11	Haringey	Friern Barnet
+N11	Haringey	New Southgate
+N12	Barnet	North Finchley
+N12	Barnet	Woodside Park
+N13	Enfield	Palmers Green
+N14	Barnet	Southgate
+N14	Enfield	Southgate
+N15	Hackney	Seven Sisters
+N15	Haringey	Seven Sisters
+N16	Hackney	Stamford Hill
+N16	Hackney	Stoke Newington
+N16	Islington	Stamford Hill
+N16	Islington	Stoke Newington
+N17	Haringey	Tottenham
+N18	Enfield	Upper Edmonton
+N19	Camden	Archway
+N19	Camden	Tufnell Park
+N19	Islington	Archway
+N19	Islington	Tufnell Park
+N20	Barnet	Totteridge
+N20	Barnet	Whetstone
+N21	Enfield	Winchmore Hill
+N22	Enfield	Alexandra Palace
+N22	Enfield	Wood Green
+N22	Haringey	Alexandra Palace
+N22	Haringey	Wood Green
+NW1	Camden	Camden Town
+NW1	Camden	Regent’s Park
+NW1	Westminster	Camden Town
+NW1	Westminster	Regent’s Park
+NW2	Barnet	Cricklewood
+NW2	Barnet	Neasden
+NW2	Brent	Cricklewood
+NW2	Brent	Neasden
+NW2	Camden	Cricklewood
+NW2	Camden	Neasden
+NW3	Barnet	Hampstead
+NW3	Barnet	Swiss Cottage
+NW3	Camden	Hampstead
+NW3	Camden	Swiss Cottage
+NW4	Barnet	Brent Cross
+NW4	Barnet	Hendon
+NW5	Camden	Kentish Town
+NW6	Brent	Kilburn
+NW6	Brent	Queens Park
+NW6	Brent	West Hampstead
+NW6	Camden	Kilburn
+NW6	Camden	Queens Park
+NW6	Camden	West Hampstead
+NW6	Westminster	Kilburn
+NW6	Westminster	Queens Park
+NW6	Westminster	West Hampstead
+NW7	Barnet	Mill Hill
+NW7	Hertsmere	Mill Hill
+NW8	Camden	St John’s Wood
+NW8	Westminster	St John’s Wood
+NW9	Barnet	Colindale
+NW9	Barnet	Kinsbury
+NW9	Brent	Colindale
+NW9	Brent	Kinsbury
+NW10	Brent	Harlesden
+NW10	Brent	Kensal Green
+NW10	Brent	Willesden
+NW10	Ealing	Harlesden
+NW10	Ealing	Kensal Green
+NW10	Ealing	Willesden
+NW10	Hammersmith and Fulham	Harlesden
+NW10	Hammersmith and Fulham	Kensal Green
+NW10	Hammersmith and Fulham	Willesden
+NW11	Barnet	Golders Green
+NW11	Barnet	Hampstead Gdn Suburb
+SE1	Lambeth	Bermondsey
+SE1	Lambeth	Borough
+SE1	Lambeth	Southwark
+SE1	Lambeth	Waterloo
+SE1	Southwark	Bermondsey
+SE1	Southwark	Borough
+SE1	Southwark	Southwark
+SE1	Southwark	Waterloo
+SE2	Bexley	Abbey Wood
+SE2	Greenwich	Abbey Wood
+SE3	Greenwich	Blackheath
+SE3	Greenwich	Westcombe Park
+SE3	Lewisham	Blackheath
+SE3	Lewisham	Westcombe Park
+SE4	Lewisham	Brockley
+SE4	Lewisham	Crofton Park
+SE4	Lewisham	Honor Oak Park
+SE5	Lambeth	Camberwell
+SE5	Southwark	Camberwell
+SE6	Lewisham	Bellingham
+SE6	Lewisham	Catford
+SE6	Lewisham	Hither Green
+SE7	Greenwich	Charlton
+SE8	Greenwich	Deptford
+SE8	Lewisham	Deptford
+SE8	Southwark	Deptford
+SE9	Bexley	Eltham
+SE9	Bexley	Mottingham
+SE9	Bromley	Eltham
+SE9	Bromley	Mottingham
+SE9	Greenwich	Eltham
+SE9	Greenwich	Mottingham
+SE9	Lewisham	Eltham
+SE9	Lewisham	Mottingham
+SE10	Greenwich	Greenwich
+SE10	Lewisham	Greenwich
+SE11	Lambeth	Lambeth
+SE12	Greenwich	Grove Park
+SE12	Greenwich	Lee
+SE12	Lewisham	Grove Park
+SE12	Lewisham	Lee
+SE13	Greenwich	Hither Green
+SE13	Greenwich	Lewisham
+SE13	Lewisham	Hither Green
+SE13	Lewisham	Lewisham
+SE14	Lewisham	New Cross
+SE14	Lewisham	New Cross Gate
+SE15	Lewisham	Nunhead
+SE15	Lewisham	Peckham
+SE15	Southwark	Nunhead
+SE15	Southwark	Peckham
+SE16	Lewisham	Rotherhithe
+SE16	Lewisham	South Bermonsey
+SE16	Lewisham	Surrey Docks
+SE16	Southwark	Rotherhithe
+SE16	Southwark	South Bermonsey
+SE16	Southwark	Surrey Docks
+SE17	Southwark	Elephant & Castle
+SE17	Southwark	Walworth
+SE18	Bexley	Plumstead
+SE18	Bexley	Woolwich
+SE18	Greenwich	Plumstead
+SE18	Greenwich	Woolwich
+SE19	Bromley	Crystal Palace
+SE19	Bromley	Upper Norwood
+SE19	Croydon	Crystal Palace
+SE19	Croydon	Upper Norwood
+SE19	Lambeth	Crystal Palace
+SE19	Lambeth	Upper Norwood
+SE20	Bromley	Anerley
+SE20	Bromley	Penge
+SE21	Lambeth	Dulwich
+SE21	Southwark	Dulwich
+SE22	Southwark	East Dulwich
+SE23	Lewisham	Forest Hill
+SE24	Lambeth	Herne Hill
+SE24	Southwark	Herne Hill
+SE25	Croydon	South Norwood
+SE26	Bromley	Sydenham
+SE26	Lewisham	Sydenham
+SE26	Southwark	Sydenham
+SE27	Lambeth	Tulse Hill
+SE27	Lambeth	West Norwood
+SE28	Bexley	Thamesmead
+SE28	Greenwich	Thamesmead
+SW1A	Westminster	Belgravia
+SW1A	Westminster	Pimlico
+SW1A	Westminster	Westminster
+SW1E	Westminster	Belgravia
+SW1E	Westminster	Pimlico
+SW1E	Westminster	Westminster
+SW1H	Westminster	Belgravia
+SW1H	Westminster	Pimlico
+SW1H	Westminster	Westminster
+SW1P	Westminster	Belgravia
+SW1P	Westminster	Pimlico
+SW1P	Westminster	Westminster
+SW1V	Westminster	Belgravia
+SW1V	Westminster	Pimlico
+SW1V	Westminster	Westminster
+SW1W	Kensington and Chelsea	Belgravia
+SW1W	Kensington and Chelsea	Pimlico
+SW1W	Kensington and Chelsea	Westminster
+SW1W	Westminster	Belgravia
+SW1W	Westminster	Pimlico
+SW1W	Westminster	Westminster
+SW1X	Kensington and Chelsea	Belgravia
+SW1X	Kensington and Chelsea	Pimlico
+SW1X	Kensington and Chelsea	Westminster
+SW1X	Westminster	Belgravia
+SW1X	Westminster	Pimlico
+SW1X	Westminster	Westminster
+SW1Y	Westminster	Belgravia
+SW1Y	Westminster	Pimlico
+SW1Y	Westminster	Westminster
+SW2	Lambeth	Brixton
+SW2	Lambeth	Streatham Hill
+SW3	Kensington and Chelsea	Brompton
+SW3	Kensington and Chelsea	Chelsea
+SW4	Lambeth	Clapham
+SW5	Kensington and Chelsea	Earl’s Court
+SW6	Hammersmith and Fulham	Fulham
+SW6	Hammersmith and Fulham	Parson’s Green
+SW7	Kensington and Chelsea	South Kensington
+SW8	Lambeth	Nine Elms
+SW8	Lambeth	South Lambeth
+SW8	Wandsworth	Nine Elms
+SW8	Wandsworth	South Lambeth
+SW9	Lambeth	Brixton
+SW9	Lambeth	Stockwell
+SW10	Hammersmith & Fulham	West Brompton
+SW10	Hammersmith & Fulham	World’s End
+SW10	Kensington and Chelsea	West Brompton
+SW10	Kensington and Chelsea	World’s End
+SW11	Wandsworth	Battersea
+SW11	Wandsworth	Clapham Junction
+SW12	Lambeth	Balham
+SW12	Wandsworth	Balham
+SW13	Richmond upon Thames	Barnes
+SW13	Richmond upon Thames	Castelnau
+SW14	Richmond upon Thames	East Sheen
+SW14	Richmond upon Thames	Mortlake
+SW15	Wandsworth	Putney
+SW15	Wandsworth	Roehampton
+SW16	Croydon	Norbury
+SW16	Croydon	Streatham
+SW16	Lambeth	Norbury
+SW16	Lambeth	Streatham
+SW16	Merton	Norbury
+SW16	Merton	Streatham
+SW16	Wandsworth	Norbury
+SW16	Wandsworth	Streatham
+SW17	Wandsworth	Tooting
+SW18	Wandsworth	Earlsfield
+SW18	Wandsworth	Wandsworth
+SW19	Merton	Merton
+SW19	Merton	Wimbledon
+SW19	Wandsworth	Merton
+SW19	Wandsworth	Wimbledon
+SW20	Merton	Raynes Park
+SW20	Merton	South Wimbledon
+W1B	Westminster	Portland Street
+W1B	Westminster	Regent Street
+W1C	Westminster	Oxford Street
+W1D	Westminster	Chinatown
+W1D	Westminster	Soho
+W1D	Westminster	Soho Square
+W1G	Westminster	Harley Street
+W1H	Westminster	Marylebone
+W1J	Westminster	Mayfair
+W1J	Westminster	Piccadilly
+W1J	Westminster	Royal Academy
+W1K	Westminster	Grosvenor Square
+W1K	Westminster	Mayfair
+W1T	Camden	Fitzrovia
+W1T	Camden	Tottenham Court Road
+W1T	Westminster	Fitzrovia
+W1T	Westminster	Tottenham Court Road
+W1U	Westminster	Marylebone
+W1W	Westminster	Great Portland Street
+W2	Kensington & Chelsea	Bayswater
+W2	Kensington & Chelsea	Paddington
+W2	Westminster	Bayswater
+W2	Westminster	Paddington
+W3	Ealing	Acton
+W3	Hammersmith & Fulham	Acton
+W3	Hounslow	Acton
+W4	Ealing	Chiswick
+W4	Hounslow	Chiswick
+W5	Ealing	Ealing
+W6	Hammersmith & Fulham	Hammersmith
+W7	Ealing	Hanwell
+W8	Kensington & Chelsea	Kensington
+W9	Westminster	Maida Vale
+W9	Westminster	Warwick Avenue
+W10	Kensington & Chelsea	Ladbroke Grove
+W10	Kensington & Chelsea	North Kensington
+W11	Kensington & Chelsea	Holland Park
+W11	Kensington & Chelsea	Notting Hill
+W12	Hammersmith & Fulham	Shepherd’s Bush
+W13	Ealing	West Ealing
+W14	Hammersmith & Fulham	West Kensington
+W14	Kensington & Chelsea	West Kensington
+WC1A	Camden	New Oxford Street
+WC1B	Camden	Bloomsbury
+WC1B	Camden	British Museum
+WC1E	Camden	University College London
+WC1H	Camden	St Pancras
+WC1N	Camden	Great Ormond Street Hospital
+WC1X	Camden	Finsbury
+WC1X	Camden	Kings Cross
+WC1X	Islington	Finsbury
+WC1X	Islington	Kings Cross
+WC2A	Camden	"Lincoln's Inn Fields"
+WC2A	Camden	Royal Courts of Justice
+WC2A	City of London	"Lincoln's Inn Fields"
+WC2A	City of London	Royal Courts of Justice
+WC2A	Westminster	"Lincoln's Inn Fields"
+WC2A	Westminster	Royal Courts of Justice
+WC2B	Camden	Aldwych
+WC2B	Camden	Drury Lane
+WC2B	Westminster	Aldwych
+WC2B	Westminster	Drury Lane
+WC2E	Westminster	Covent Garden
